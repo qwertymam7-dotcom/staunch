@@ -8,7 +8,4 @@ console.log('====================================');
 console.log("New Branch added");
 console.log('====================================');
 
-console.log('====================================');
-console.log("Subhashini branch is created");
-console.log('====================================');
 
